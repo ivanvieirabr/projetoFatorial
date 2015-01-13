@@ -10,7 +10,7 @@ public class Fatorial {
 		   for(int i = 2; i <= n; i++) 
 			resultado *= i;
 		}
-		System.out.println("Teste...");
+		System.out.println("Teste NOVO...");
 
 		return resultado;
 	}
