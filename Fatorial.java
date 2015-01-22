@@ -1,3 +1,4 @@
+//teste
 public class Fatorial {
 	/* Versao iterativa do calculo do fatorial, incluindo o teste para n=0 xxxx*/
 	public int calcularFatorial(int n) {

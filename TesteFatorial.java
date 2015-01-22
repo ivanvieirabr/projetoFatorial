@@ -1,3 +1,4 @@
+//teste
 class TesteFatorial {
 	// Comentario inserido em TesteFatorial.java
 	public static void main(String[] args) {
